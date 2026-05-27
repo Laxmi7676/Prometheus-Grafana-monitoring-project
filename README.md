@@ -155,6 +155,8 @@ docker-compose down
 - Docker Compose — running multi-container monitoring stack
 - Container networking — services talking via container names
 
+![Grafana Dashboard](screenshots/monitoring-dashboard.png)
+
 ## Tech Stack
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
